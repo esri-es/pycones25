@@ -15,4 +15,5 @@ Durante la charla veremos:
 
 El objetivo final de esta charla es ver un ejemplo real donde la variable espacial es clave para un análisis completo de los datos.
 
-Autores: [Libertad Chapinal Cervantes](https://github.com/libertadcc) y [Álvaro Gutiérrez Climent](https://github.com/alvarogtrzcliment)
+Autores: 
+- Libertad Chapinal Cervantes [ [Github](https://github.com/libertadcc) [Linkedin](https://www.linkedin.com/in/libertadchapinalcervantes/) ] y Álvaro Gutiérrez Climent [ [Github](https://github.com/alvarogtrzcliment) [Linkedin](https://www.linkedin.com/in/%C3%A1lvaro-guti%C3%A9rrez-climent-94a840217/) ]
